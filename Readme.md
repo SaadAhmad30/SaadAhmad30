@@ -5,7 +5,7 @@
 ### I build the parts of a product you only notice when they fail.
 
 Full-stack engineer shipping **Next.js** front ends, **NestJS** and **Node** services, and the **Python** workers behind them.
-**5+ years** · **Lahore, Pakistan 🇵🇰** · Freelance · Open to new builds
+**5+ years** · **Lahore, Pakistan 🇵🇰** · Full Stack Engineer at **Xccelerated AI**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://saadahmad.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-ahmad-)
@@ -105,11 +105,10 @@ AI agents plan, generate, localize and publish marketing content from one worksp
 
 | Period | Role | Highlights |
 |--------|------|------------|
-| **May 2026 – now** | **Freelance Full-Stack Developer** · Independent | Client work for Voxbee.ai, Billboards America and Kovo · Voxbee.ai: analytics, social publishing, server-side video and billing across Next.js, NestJS and Python services |
-| **Apr 2025 – May 2026** | **Senior MERN Stack Developer** · Trottk, Lahore | Led a cross-functional team shipping products on React, Next.js, Node.js and AWS · Owned architecture decisions, sprint planning, code review and CI/CD quality |
-| **Feb 2025 – Apr 2025** | **Full-Stack Developer** · CoderCrew, Lahore | Built a Node.js + React dating platform: multi-role access, S3 media, location matching, real-time Socket.IO |
-| **Apr 2024 – Mar 2025** | **Full-Stack Developer** · Digital DirAction, Lahore | Shipped an alumni + job portal, a healthcare platform with an OpenAI chatbot, and an invoicing system |
-| **Jan 2023 – Mar 2024** | **Junior Full-Stack Developer** · Shayan Solutions, Lahore | Delivered a provider marketplace, e-commerce with Stripe split payments, and a student loan repayment portal |
+| **Apr 2026 – now** | **Full Stack Engineer** · Xccelerated AI, Lahore | Built a browser-based video editor (Next.js, WebGL/GLSL) with a multi-track timeline and real-time transitions · Built a WASM + server-side FFmpeg export pipeline delivering pixel-accurate, reliable exports |
+| **May 2025 – Apr 2026** | **Full Stack Engineer** · Trot Tk | Built a healthcare platform (Node.js + Next.js) with real-time chat and provider networks, deployed with Azure DevOps CI/CD |
+| **Apr 2024 – Apr 2025** | **Software Engineer** · Digital DirAction, Lahore | Built educational dashboards giving staff and students a clear view of academic activity and progress · Automated key workflows across the platform, cutting down manual steps |
+| **Jan 2023 – Apr 2024** | **Junior Full Stack Developer** · Shayan Solutions, Lahore | Designed and implemented user-friendly interfaces with React.js and built server-side logic with Node.js |
 | **2020 – 2022** | **Junior Developer (part-time)** · Xccelerated.ai | Built Stripe proofs of concept for a loan repayment system |
 | **2018 – 2022** | **Computer Science** · Islamabad, Pakistan | Algorithms, data structures, database systems and software engineering fundamentals |
 
