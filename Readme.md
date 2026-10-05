@@ -5,7 +5,7 @@
 ### I build the parts of a product you only notice when they fail.
 
 Full-stack engineer shipping **Next.js** front ends, **NestJS** and **Node** services, and the **Python** workers behind them.
-**5+ years** · **Lahore, Pakistan 🇵🇰** · Full Stack Engineer at **Xccelerated AI**
+**4+ years** · **Lahore, Pakistan 🇵🇰** · Full Stack Engineer at **Xccelerated AI**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://saadahmad.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-ahmad-)
@@ -109,6 +109,7 @@ AI agents plan, generate, localize and publish marketing content from one worksp
 | **May 2025 – Apr 2026** | **Full Stack Engineer** · Trot Tk | Built a healthcare platform (Node.js + Next.js) with real-time chat and provider networks, deployed with Azure DevOps CI/CD |
 | **Apr 2024 – Apr 2025** | **Software Engineer** · Digital DirAction, Lahore | Built educational dashboards giving staff and students a clear view of academic activity and progress · Automated key workflows across the platform, cutting down manual steps |
 | **Jan 2023 – Apr 2024** | **Junior Full Stack Developer** · Shayan Solutions, Lahore | Designed and implemented user-friendly interfaces with React.js and built server-side logic with Node.js |
+| **2018 – 2022** | **Computer Science** · Islamabad, Pakistan | Algorithms, data structures, database systems and software engineering fundamentals |
 
 ---
 
