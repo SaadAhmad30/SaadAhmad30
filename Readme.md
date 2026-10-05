@@ -113,18 +113,6 @@ AI agents plan, generate, localize and publish marketing content from one worksp
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaadAhmad30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaadAhmad30&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadAhmad30&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
 ---
 
 <div align="center">
