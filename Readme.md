@@ -109,8 +109,6 @@ AI agents plan, generate, localize and publish marketing content from one worksp
 | **May 2025 – Apr 2026** | **Full Stack Engineer** · Trot Tk | Built a healthcare platform (Node.js + Next.js) with real-time chat and provider networks, deployed with Azure DevOps CI/CD |
 | **Apr 2024 – Apr 2025** | **Software Engineer** · Digital DirAction, Lahore | Built educational dashboards giving staff and students a clear view of academic activity and progress · Automated key workflows across the platform, cutting down manual steps |
 | **Jan 2023 – Apr 2024** | **Junior Full Stack Developer** · Shayan Solutions, Lahore | Designed and implemented user-friendly interfaces with React.js and built server-side logic with Node.js |
-| **2020 – 2022** | **Junior Developer (part-time)** · Xccelerated.ai | Built Stripe proofs of concept for a loan repayment system |
-| **2018 – 2022** | **Computer Science** · Islamabad, Pakistan | Algorithms, data structures, database systems and software engineering fundamentals |
 
 ---
 
